@@ -10,4 +10,7 @@ This Website was created by using Bootstrap Framework,Html,CSS,JQuery
 *Pricing
 *Contact
 
-Used many built in Glyphicons For  Better User Friendly Experience
+Used many built in Glyphicons For Better User Friendly Experience
+Added Scrollspy for better interaction
+Added Some Jquery For smooth scrolling
+Added a Slideshow to Showcase Customer's Reviews
